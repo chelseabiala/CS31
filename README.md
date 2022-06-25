@@ -6,9 +6,15 @@ Introductory computer science course at UCLA. Taught C++ and basic data types, s
 Included:
 
 Project 1: Introducing error types
+
 Project 2: Arithmetic and debugging
+
 Project 3: String manipulation
+
 Project 4: Arrays
+
 Project 5: C-strings
+
 Project 6: Error tracing
+
 Project 7: Game design
